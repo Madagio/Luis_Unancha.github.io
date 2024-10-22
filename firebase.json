@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "mi-sitio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
